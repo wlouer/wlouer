@@ -31,7 +31,7 @@ Hey there! I'm Bill—a power industry professional with 20+ years of experience
 - Using Neural Networks for Time Series Analysis
 - Risk Analysis for Large Power Projects  
 
-Outside of work, I enjoy the outdoors; hiking with my dog, bike riding, skiing, the beach and cheering on Rutgers football/basketball.  Throw in travel with any of those and it only gets better! 🌍🏔️🚴‍♂️
+Outside of work, I enjoy the outdoors; hiking with my dog, bike riding, skiing, the beach and cheering on Rutgers football/basketball.  Throw in travel with any of those, and it only gets better! 🌍🏔️🚴‍♂️
 
 ---
 
