@@ -33,8 +33,7 @@ Outside of work, I enjoy the outdoors; a hike, bike riding, the beach or cheerin
 ---
 
 ## ✨ Fun Fact
-
-I’m passionate about learning Python applications to bridge my industry expertise with cutting-edge technologies in machine learning and AI. Let’s connect and talk about **power projects**, **data science**, or your favorite hiking trails! 🏞️
+A small percentage of power projects that are developed are actually permitted, and built.  Development is a risky business.  So any efforts to use data analysis, visualization or machine learning to apply resources to the right projects or to the correct areas on a project could have significant payback. 🏞️
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://acadiamagic.com/images/1200w/little-hunters-A5436.jpg">
