@@ -11,8 +11,8 @@ Hey there! I'm Bill—a power industry professional with 20+ years of experience
 🎯 **My Current Skills:**  
 - SQL
 - Python Data Analysis:
-   - Data Manipulation and Cleanup with Pandas, Numpy, stats
-   - Data Visualization with Matplotlib, Seaborn and Plotly
+   - Data Manipulation, Cleanup with Pandas, Numpy 
+   - Data Visualization and Exploratory Data Analysis with scipy.stats, Matplotlib, Seaborn and Plotly
    - Machine Learning Algorithms using python such as Linear Regression, Decision Trees, Random Forest, XGBoost, for Classification and Regression  
 
 
