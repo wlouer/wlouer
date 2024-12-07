@@ -6,14 +6,14 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm Bill—a power generation industry professional with 20+ years of experience. These days, I'm diving into **data science, machine learning, and visualization** to uncover insights and make better decisions in power project development and operations.
+Hey there! I'm Bill—a power industry professional with 20+ years of experience in power generation. These days, I'm diving into **data science, machine learning, and visualization** to uncover insights and make better decisions in power project development and operations.
 
-🎯 **My Focus Areas:**  
+🎯 **My Current Focus Areas:**  
 - Time Series Analysis  
 - Neural Networks  
 - Risk Analysis for Large Power Projects  
 
-Outside of work, I’m always up for a good hike, a bike ride, cheering on Rutgers football, or exploring new corners of the world. 🌍🏔️🚴‍♂️
+Outside of work, I enjoy the outdoors; a hike, a bike ride, the beach or cheer on Rutgers football, basketball, when able, travel to experience some new things and places. 🌍🏔️🚴‍♂️
 
 ---
 
@@ -42,23 +42,3 @@ I’m passionate about learning Python applications to bridge my industry expert
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-
-Hello!  I'm Bill Louer.
-
-# BACKGROUND
-
-I have a background in power plant engineering and project development.
-
-
-
-- 👋 Hi, I’m Bill Louer @wlouer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
-
-<!---
-wlouer/wlouer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
