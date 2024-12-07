@@ -6,14 +6,14 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm Bill—a power industry professional with 20+ years of experience in power generation. These days, I'm diving into **data science, machine learning, and visualization** to uncover insights and make better decisions in power project development and operations.
+Hey there! I'm Bill—a power industry professional with 20+ years of experience in power generation. These days, I'm diving into **data science, machine learning, and visualization** with the intention to uncover insights and make better decisions in power project development and operations.
 
 🎯 **My Current Focus Areas:**  
 - Time Series Analysis  
 - Neural Networks  
 - Risk Analysis for Large Power Projects  
 
-Outside of work, I enjoy the outdoors; a hike, a bike ride, the beach or cheer on Rutgers football, basketball, when able, travel to experience some new things and places. 🌍🏔️🚴‍♂️
+Outside of work, I enjoy the outdoors; a hike, bike riding, the beach or cheering on Rutgers football & basketball, when able, traveling to experience some new things and places. 🌍🏔️🚴‍♂️
 
 ---
 
