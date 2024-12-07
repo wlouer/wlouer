@@ -13,11 +13,15 @@ Hey there! I'm Bill—a power industry professional with 20+ years of experience
 - Python Data Analysis:
    - Data Manipulation, Cleanup with Pandas, Numpy 
    - Data Visualization and Exploratory Data Analysis with scipy.stats, Matplotlib, Seaborn and Plotly
-   - Machine Learning Algorithms using python such as Linear Regression, Decision Trees, Random Forest, XGBoost, for Classification and Regression  
+   - Machine Learning Algorithms using python such as Linear Regression, Decision Trees, Random Forest, XGBoost, for Classification and Regression
+   - Time Series Analysis 
+   - Building basic dashboards with Plotly Dash
+
 
 🎯 **My Current Focus Areas for New Skills:**  
-- Time Series Analysis  
-- Neural Networks  
+ 
+- POWER Bi 
+- Using Neural Networks for Time Series Analysis
 - Risk Analysis for Large Power Projects  
 
 Outside of work, I enjoy the outdoors; hiking with my dog, bike riding, skiing, the beach and cheering on Rutgers football/basketball.  Throw in travel with any of those and it only gets better! 🌍🏔️🚴‍♂️
