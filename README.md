@@ -8,7 +8,7 @@
 
 Hey there! I'm Bill—a power industry professional with 20+ years of experience in power generation. These days, I'm diving into **data science, visualization, and machine learning** with the intention of using it as a tool to uncover insights and make better decisions in power project development, design, procurement, construction and operations.
 
-🛠️ Skills **My Current Skills:**  
+🛠️ **My Current Skills:**  
 - SQL
 - Python Data Analysis:
    - Data Manipulation, Cleanup with Pandas, Numpy 
