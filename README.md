@@ -59,4 +59,5 @@ A small percentage of power projects that are developed are actually permitted, 
  <source media="(prefers-color-scheme: light)" srcset="https://acadiamagic.com/images/1200w/little-hunters-A5436.jpg">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
+Courtesy:  Acadia Magic (Acadia National Park, ME)
 
