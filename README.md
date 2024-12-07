@@ -15,6 +15,7 @@ Hey there! I'm Bill—a power industry professional with 20+ years of experience
    -  Management of Engineering & Detailed Design
    -  Heat Balance Development
    -  Life Cycle Cost Analysis to guide Engineering Alternative Decision Making
+   -  Emerging Technology Due Diligence
 
 - Data Analysis
    - SQL
