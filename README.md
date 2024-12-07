@@ -12,6 +12,7 @@ Hey there! I'm Bill—a power industry professional with 20+ years of experience
 -  Project Management and Engineering:
    -  Power Project Development
    -  Management of Preliminary Engineering, Permitting and Interconnection Support
+   -  Management of Engineering & Detailed Design
    -  Heat Balance Development
    -  Life Cycle Cost Analysis to guide Engineering Alternative Decision Making
 
