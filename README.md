@@ -8,7 +8,15 @@
 
 Hey there! I'm Bill—a power industry professional with 20+ years of experience in power generation. These days, I'm diving into **data science, visualization, and machine learning** with the intention to uncover insights and make better decisions in power project development and operations.
 
-🎯 **My Current Focus Areas:**  
+🎯 **My Current Skills:**  
+- SQL
+- Python Data Analysis:
+ - Data Manipulation and Cleanup with Pandas, Numpy, stats
+ - Data Visualization with Matplotlib, Seaborn and Plotly  
+ - Machine Learning Algorithms using python such as Linear Regression, Decision Trees, Random Forest, XGBoost, for Classification and Regression  
+
+
+🎯 **My Current Focus Areas for New Skills:**  
 - Time Series Analysis  
 - Neural Networks  
 - Risk Analysis for Large Power Projects  
