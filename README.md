@@ -8,7 +8,13 @@
 
 Hey there! I'm Bill—a power industry professional with 20+ years of experience in power generation.  My background as a mechanical engineer led to me a role as project manager where I led the development and execution of power generation projects.  These days, I'm diving into **data science, visualization, and machine learning** with the intention of using it as a tool to uncover insights and make better decisions in power project development, design, procurement, construction and operations.
 
-🛠️ **My Current Skills:**  
+🛠️ **My Current Skills:** 
+Project Management and Engineering:
+-  Power Project Development
+-  Management of Preliminary Engineering, Permitting and Interconnection Support
+-  Heat Balance Development
+-  Life Cycle Cost Analysis to guide Engineering Alternative Decision Making
+
 Data Analysis
 - SQL
 - Python Data Analysis:
@@ -18,11 +24,7 @@ Data Analysis
    - Time Series Analysis 
    - Building basic dashboards with Plotly Dash
  
-Project Management and Engineering:
--  Power Project Development
--  Management of Preliminary Engineering, Permitting and Interconnection Support
--  Heat Balance Development
--  Life Cycle Cost Analysis to guide Engineering Alternative Decision Making
+
 
 
 🎯 **My Current Focus Areas for New Skills:**  
