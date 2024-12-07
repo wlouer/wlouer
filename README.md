@@ -16,18 +16,15 @@ Hey there! I'm Bill—a power industry professional with 20+ years of experience
    -  Heat Balance Development
    -  Life Cycle Cost Analysis to guide Engineering Alternative Decision Making
 
-Data Analysis
-- SQL
-- Python Data Analysis:
-   - Data Manipulation, Cleanup with Pandas, Numpy 
-   - Data Visualization and Exploratory Data Analysis with scipy.stats, Matplotlib, Seaborn and Plotly
-   - Machine Learning Algorithms using python such as Linear Regression, Decision Trees, Random Forest, XGBoost, for Classification and Regression
-   - Time Series Analysis 
-   - Building basic dashboards with Plotly Dash
+- Data Analysis
+   - SQL
+   - Python Data Analysis:
+       - Data Manipulation, Cleanup with Pandas, Numpy
+       - Data Visualization and Exploratory Data Analysis with scipy.stats, Matplotlib, Seaborn and Plotly
+       - Machine Learning Algorithms using python such as Linear Regression, Decision Trees, Random Forest, XGBoost, for Classification and Regression
+       - Time Series Analysis
+       - Building basic dashboards with Plotly Dash
  
-
-
-
 🎯 **My Current Focus Areas for New Skills:**  
  
 - POWER Bi 
