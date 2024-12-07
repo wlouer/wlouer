@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm Bill—a power industry professional with 20+ years of experience in power generation. These days, I'm diving into **data science, machine learning, and visualization** with the intention to uncover insights and make better decisions in power project development and operations.
+Hey there! I'm Bill—a power industry professional with 20+ years of experience in power generation. These days, I'm diving into **data science, visualization, and machine** with the intention to uncover insights and make better decisions in power project development and operations.
 
 🎯 **My Current Focus Areas:**  
 - Time Series Analysis  
