@@ -4,7 +4,7 @@ I'm Bill, from New Jersey, USA and I'm a power generation industry professional 
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://acadiamagic.com/images/1200w/little-hunters-A5436.jpg">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="https://acadiamagic.com/images/1200w/little-hunters-A5436.jpg">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
