@@ -41,7 +41,7 @@ Outside of work, I enjoy the outdoors; hiking with my dog, bike riding, skiing, 
 ---
 
 ## ✨ Fun Fact
-A small percentage of power projects that are developed are actually permitted, and built.  Development is a risky business.  So any efforts to use data analysis, visualization or machine learning to apply resources to the right projects, over the wrong projects, or to the target the high risk areas on individual projects in development could yield a significant payback. 🏞️
+A small percentage of power projects that are developed are actually permitted, and built.  Development is a risky business.  So any efforts to use data analysis, visualization or machine learning to apply resources to the right projects, over the wrong projects, or to identify and target improvement of high risk areas on individual projects in development could yield a significant payback. 🏞️
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://acadiamagic.com/images/1200w/little-hunters-A5436.jpg">
