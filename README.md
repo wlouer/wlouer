@@ -1,4 +1,4 @@
-###  Hi there!
+#  Hi there!
 
 I'm Bill, from New Jersey, USA and I'm a power generation industry professional and learning data analysis, machine learning and data science.  I enjoy learning new python applications to further my understanding of machine learning applications that can be used in the power industry and elsewhere.  You can check out my linked in profile at https://www.linkedin.com/in/bill-louer-2bb1435/.
 
