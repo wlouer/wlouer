@@ -36,7 +36,7 @@ Outside of work, I enjoy the outdoors; hiking with my dog, bike riding, skiing, 
 
 ---
 
-## 💪 Certifications
+## 📜 Certifications
 
 - 🏅 **Professional Engineer**: State of New York  
 - 🎓 **IBM Data Science Specialization Certificate**  
