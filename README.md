@@ -13,7 +13,7 @@ Hey there! I'm Bill—a power industry professional with 20+ years of experience
    -  Power Project Development
    -  Management of Preliminary Engineering, Permitting and Interconnection Support
    -  Management of Engineering & Detailed Design
-   -  Heat Balance Development
+   -  Heat Balance Development using GT-Pro and Steam-Pro
    -  Life Cycle Cost Analysis to guide Engineering Alternative Decision Making
    -  Emerging Technology Due Diligence
 
