@@ -1,6 +1,6 @@
 # 🌟 Hi, I'm Bill Louer 🌟
 
-- ⚡🏭 **Power Industry Professional** | 📊 **Data Enthusiast** | 🌎 **New Jersey, USA**  
+- ⚡🏭 **Power Industry Engineer/ Project Manager** | 📊 **Data Enthusiast** | 🌎 **New Jersey, USA**  
 
 ---
 
