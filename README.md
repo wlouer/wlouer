@@ -25,10 +25,10 @@ I'm Bill—a power industry professional with 20+ years of experience in power g
        - Machine Learning Algorithms using python such as Linear Regression, Decision Trees, Random Forest, XGBoost, for Classification and Regression
        - Time Series Analysis using Exponential Smoothing, ARIMA, SARIMA
        - Building basic dashboards with Plotly Dash
+   - POWER BI
  
 🎯 **My Current Focus Areas for New Skills:**  
  
-- POWER Bi
 - Learning additional Time Series Analysis methods including Facebook Prophet and Neural Networks
 - Using Data to predict power plant performance and detect problems.  
 
