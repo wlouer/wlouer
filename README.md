@@ -24,7 +24,7 @@ I'm Bill—a power industry professional with 20+ years of experience in power g
        - Data Visualization and Exploratory Data Analysis with scipy.stats, Matplotlib, Seaborn and Plotly
        - Machine Learning Algorithms using python such as Linear Regression, Decision Trees, Random Forest, XGBoost, for Classification and Regression
        - Time Series Analysis using Exponential Smoothing, ARIMA, SARIMA
-       - Building basic dashboards with Plotly Dash
+       - Building basic dashboards and webapps with Flask and Plotly Dash
    - POWER BI
  
 🎯 **My Current Focus Areas for New Skills:**  
