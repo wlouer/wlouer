@@ -30,11 +30,8 @@ I'm Bill—a power industry professional with 25+ years of experience in power g
 🎯 **My Current Focus Areas for New Skills:**  
  
 - Learning additional Time Series Analysis methods including Facebook Prophet and Neural Networks
-- Using Data to predict power plant performance and detect problems.  
+- Finding applications for machine learning and AI in power project development.  
 
-Outside of work, I enjoy the outdoors; hiking with my dog, bike riding, skiing, taking in the beach/ocean and cheering on Rutgers football/basketball.  Throw in travel with any of those, and it only gets better! 🌍🏔️🚴‍♂️
-
----
 
 ## 📜 Certifications
 
